@@ -2,7 +2,7 @@
 
 ## How to create a Resume on S3 Bucket with Static Website.
 This repository contains the steps to help you to create your Resume on S3 Bucket with Static Website.
-Login to AWS and go to S3 condole and click create bucket. The name must be unique across all the S3 buckets.
+Login to AWS and go to S3 console and click create bucket. The name must be unique across all the S3 buckets.
 -	Uncheck the “Block all public access settings” (acknowledge the popup window).
 -	Scroll down and click on Create bucket.
 -	Click on the newly created bucket and select the Properties Tab.
